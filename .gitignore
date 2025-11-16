@@ -1,0 +1,24 @@
+# Visual Studio temporary files
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Core
+appsettings*.json
+wwwroot/
